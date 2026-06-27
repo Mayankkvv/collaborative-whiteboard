@@ -1,0 +1,8 @@
+# Dependencies — never commit these, they are reinstalled from package.json
+node_modules/
+
+# Environment variables — contain secrets, never commit
+.env
+
+# Mac junk
+.DS_Store

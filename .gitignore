@@ -1,0 +1,6 @@
+# Root gitignore — covers both client and server
+node_modules/
+.env
+.env.local
+.DS_Store
+Thumbs.db
